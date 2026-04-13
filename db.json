@@ -1,0 +1,38 @@
+{
+  "complaints": [
+    {
+      "id": "COMP-9058",
+      "title": "gahghagha",
+      "description": "jahjgajgagjj",
+      "citizenName": "Josna",
+      "image": "/uploads/1771616628008-road.jpg",
+      "location": {
+        "lat": "19.1125",
+        "lng": "72.9519",
+        "address": "Simulated Location"
+      },
+      "category": "Road Damage",
+      "priority": "Low",
+      "department": "Roads Department",
+      "status": "Pending",
+      "timestamp": "2026-02-20T19:43:48.073Z"
+    },
+    {
+      "id": "COMP-1073",
+      "title": "thg",
+      "description": "kjjjkkj",
+      "citizenName": "road issue",
+      "image": "/uploads/1771620604187-road.jpg",
+      "location": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "address": "Pinned Location"
+      },
+      "category": "Drainage Blockage",
+      "priority": "Low",
+      "department": "Sanitation Department",
+      "status": "Resolved",
+      "timestamp": "2026-02-20T20:50:05.238Z"
+    }
+  ]
+}
